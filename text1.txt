@@ -1,0 +1,5 @@
+This is a file that the program is reading.
+this has more than 1 line
+
+you can use this code:)
+this works :)
